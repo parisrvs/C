@@ -1,0 +1,11 @@
+//here we create three files.
+//one file contains the main function
+//one file contains the function definition
+//one file contains the headers for the functions
+
+#include <stdio.h>
+
+int main(void)
+{
+
+}
